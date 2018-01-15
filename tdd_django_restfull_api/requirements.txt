@@ -1,0 +1,7 @@
+# Django
+django==1.11.0
+djangorestframework==3.6.2
+
+
+# Interaction with Postgres via Python
+psycopg2==2.7.1
