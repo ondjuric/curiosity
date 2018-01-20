@@ -1,0 +1,10 @@
+unittest&tdd practicing
+=======================
+To remember:
+"Goats are agile."
+
+- TestCase
+- Fixtures
+    - code run before and/or after each test function
+    - set-up and tear-down/clean-up
+- Assertions
